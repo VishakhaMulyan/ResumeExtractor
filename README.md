@@ -1,1 +1,13 @@
 # ResumeExtractor
+- Extractors:
+- Name
+- Phone Number
+- Email Address
+- Linkedin Profile URL
+- Support '.pdf' and '.docx' files.
+- Output data into a clean CSV file
+- Python
+- spacy (for Named Entity Recognition)
+- PyMuPDF or PyPDF2 (for PDF reading)
+- re (Regular Expression)
+- pandas
